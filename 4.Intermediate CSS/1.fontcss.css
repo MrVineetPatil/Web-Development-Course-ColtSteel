@@ -1,0 +1,20 @@
+h1{
+  font-family: cursive;
+  text-align: center;
+  text-decoration: line-through;
+}
+
+p{
+  font-family: Chilanka;
+  /* font-size: 30px; */
+  line-height: 1.5;
+  text-decoration: underline;
+}
+p:nth-of-type(2){
+  font-family: Papyrus;
+}
+
+span{
+  font-size: 2em;
+  font-weight: 800;
+}
